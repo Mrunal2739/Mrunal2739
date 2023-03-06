@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal2739&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal2739" /> </p>
 
-- 💬 Ask me about **DSA in java**
+- 💬 Ask me about **Core Java**
 
 - 📫 How to reach me **dighemrunal777@gmail.com**
 
